@@ -7,6 +7,21 @@
 }
 
 body {
-    font-family: montserrat, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-weight: 300;
+    color: black;
+}
+
+/* Headings & Logo */
+
+h1, h2 {
+    font-family: Anton, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: black;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
 }
