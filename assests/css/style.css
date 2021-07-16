@@ -58,13 +58,15 @@ h1, h2 {
     border-bottom: 3px solid black;
 }
 
-/* Hero image */
+/* Hero image and cover text */
 
 #hero-outer {
 
     height: 600px;
     width: 100%;
     overflow: hidden;
+    /* to enable positioning of cover-text*/
+    position: relative;
 }
 
 #hero-image {
@@ -88,4 +90,29 @@ h1, h2 {
     to {    
         transform: scale(1.1);
     }
+}
+
+#cover-text, #cover-text h2 {
+    color: #ffffff;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Montserrat, sans-serif;
+    text-transform:uppercase;
+    letter-spacing: 3px;
+
+    width: 400px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(110, 143, 110, .8);
+
+    bottom: 100px;
+    right: 50px;
+
+    position: absolute;
+    
 }
