@@ -17,13 +17,14 @@ body {
 h1, h2 {
     font-family: Anton, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     color: black;
 }
 
 #logo {
     float: left;
     font-size: 250%;
+    margin-left: 20px;
 }
 
 /* navigation links */
@@ -31,7 +32,7 @@ h1, h2 {
 #menu {
     font-size: 120%;
     font-weight: bold;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
 }
 
 #menu, #logo {
@@ -55,4 +56,36 @@ h1, h2 {
 
 .active {
     border-bottom: 3px solid black;
+}
+
+/* Hero image */
+
+#hero-outer {
+
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/istockphoto-155374164-612x612-hero.jpg") no-repeat center center;   
+
+
+    /* animates when home page is loaded */
+    animation-name: hero-zoom;
+    animation-duration: 8s;
+    animation-fill-mode: forwards;
+}
+
+/* The animation code - creates the level of zoom */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(0.75);
+    }
+    to {    
+        transform: scale(1.1);
+    }
 }
