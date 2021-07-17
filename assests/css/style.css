@@ -73,23 +73,6 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url("../images/istockphoto-155374164-612x612-hero.jpg") no-repeat center center;   
-
-
-    /* animates when home page is loaded */
-    animation-name: hero-zoom;
-    animation-duration: 8s;
-    animation-fill-mode: forwards;
-}
-
-/* The animation code - creates the level of zoom */
-
-@keyframes hero-zoom {
-    from {
-        transform: scale(0.75);
-    }
-    to {    
-        transform: scale(1.1);
-    }
 }
 
 #cover-text, #cover-text h2 {
@@ -114,5 +97,21 @@ h1, h2 {
     right: 50px;
 
     position: absolute;
+
+    /* animates when home page is loaded */
+    animation-name: hero-zoom;
+    animation-duration: 8s;
+    animation-fill-mode: forwards;
     
+}
+
+    /* The animation code - creates the level of zoom */
+
+    @keyframes hero-zoom {
+    from {
+        transform: scale(0.30);
+    }
+    to {    
+        transform: scale(1);
+    }
 }
