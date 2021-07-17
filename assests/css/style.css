@@ -14,7 +14,7 @@ body {
 
 /* Headings & Logo */
 
-h1, h2, h3 {
+h1, h2{
     font-family: Anton, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -116,3 +116,15 @@ h1, h2, h3 {
         transform: scale(1);
     }
 }
+
+/* Benefits section */
+
+#benefits {
+    background: url(../images/dance_fitness_clubbersise_edit_2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden; 
+}
+
