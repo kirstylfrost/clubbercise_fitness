@@ -158,6 +158,25 @@ footer h6 {
     text-align: right;
 }
 
-#official-scenes h3 p {
+#content {
     text-align: center;
+    margin-bottom: 30px;
 }
+
+#content h3, h4 {
+    background-color: rgba(207, 158, 253, .8);
+}
+
+#content a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#content a:hover {
+    border-bottom: 3px solid black;
+}
+
+.content {
+    border-bottom: 3px solid black;
+}
+
