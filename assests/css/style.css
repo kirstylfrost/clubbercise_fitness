@@ -14,7 +14,8 @@ body {
 
 /* Headings & Logo */
 
-h1, h2{
+h1,
+h2 {
     font-family: Anton, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -24,7 +25,7 @@ h1, h2{
 #logo {
     float: left;
     font-size: 250%;
-    margin-left: 20px;  
+    margin-left: 20px;
 }
 
 /* navigation links */
@@ -35,9 +36,10 @@ h1, h2{
     letter-spacing: 3px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
-    
+
 }
 
 #menu li {
@@ -73,17 +75,18 @@ h1, h2{
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("../images/istockphoto-155374164-612x612-hero.jpg") no-repeat center center;   
+    background: url("../images/istockphoto-155374164-612x612-hero.jpg") no-repeat center center;
 }
 
-#cover-text, #cover-text h2 {
+#cover-text,
+#cover-text h2 {
     color: black;
 }
 
 #cover-text {
     font-size: 130%;
     font-family: Montserrat, sans-serif;
-    text-transform:uppercase;
+    text-transform: uppercase;
     letter-spacing: 3px;
 
     width: 400px;
@@ -102,16 +105,17 @@ h1, h2{
     animation-name: hero-zoom;
     animation-duration: 8s;
     animation-fill-mode: forwards;
-    
+
 }
 
-    /* The animation code - creates the level of zoom */
+/* The animation code - creates the level of zoom */
 
-    @keyframes hero-zoom {
+@keyframes hero-zoom {
     from {
         transform: scale(0.30);
     }
-    to {    
+
+    to {
         transform: scale(1);
     }
 }
@@ -127,7 +131,7 @@ h1, h2{
 #benefits {
     background-color: rgba(207, 158, 253, .8);
     background-size: cover;
-    text-align: center; 
+    text-align: center;
 }
 
 /* Footer section */
@@ -135,16 +139,16 @@ h1, h2{
 footer {
     height: 150px;
     color: black;
-    
+
 }
 
 .social-media {
-    text-align: center;       
+    text-align: center;
 }
 
-.social-media > li {
+.social-media>li {
     display: inline;
-    
+
 }
 
 .social-media i {
@@ -157,6 +161,7 @@ footer {
 footer h6 {
     text-align: right;
 }
+
 /* About page styling */
 
 #content {
@@ -164,7 +169,8 @@ footer h6 {
     margin-bottom: 30px;
 }
 
-#content h3, h4 {
+#content h3,
+h4 {
     background-color: rgba(207, 158, 253, .8);
 }
 
@@ -181,43 +187,47 @@ footer h6 {
     border-bottom: 3px solid black;
 }
 
+/* Form */
+
+
+
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
-@media screen and (max-width: 1200px){
-    #benefits-header{
+@media screen and (max-width: 1200px) {
+    #benefits-header {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
     }
 
-    #benefits{
+    #benefits {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
     }
 
-    
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px){
 
-    #menu{
-        clear: left;
-        float: left;
-        margin-left: 30px; 
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+    /* For medium screens sizes from 950px wide and down */
+    @media screen and (max-width: 950px) {
 
-    #cover-text{
-        position: center;
-    }
+        #menu {
+            clear: left;
+            float: left;
+            margin-left: 30px;
+            margin-bottom: 20px;
+            line-height: 25px;
+        }
 
-    
+        #cover-text {
+            position: center;
+        }
 
-/* For small screens sizes from 800px wide and down */
-@media screen and (max-width: 800px){
-    #hero-image{
-        column-count: 2;
-    }
-}
+
+
+        /* For small screens sizes from 800px wide and down */
+        @media screen and (max-width: 800px) {
+            #hero-image {
+                column-count: 2;
+            }
+        }
