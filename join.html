@@ -32,58 +32,68 @@
             </ul>
         </nav>
     </header>
-    <br>
-    <section class="join-section">
-        
-            <form action="/join-data.php" method="POST" class="join-form" autocomplete="on">
-                <h2>Sign up for our <b>FREE</b> newsletter!</h2>
-                <label for="fname">First name:</label><br>
-                <input type="text" id="fname" name="fname" size="50"><br>
-                <label for="lname">Last name:</label><br>
-                <input type="text" id="lname" name="lname"><br>
-                <input type="radio" id="yes" name="offers" value="YES">
-                <label for="yes">Yes</label><br>
-                <input type="radio" id="no" name="offers" value="NO">
-                <label for="no">No</label><br>
-                <input type="submit" value="Submit">
-            </form>
-        
-    </section>
+
+    <body>
+
+        <section class="form-header">
+            <div>
+                <h2>Join our <b>FREE</b> Newsletter </h2>
+            </div>
+
+        </section>
+
+        <section>
+            <div>
+                <form action="/join-data.php">
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="firstname" placeholder="Your name...">
+
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="lname" name="lastname" placeholder="Your last name...">
+
+                    <label for="country">Country</label>
+                    <input type="text" id="country" name="country" placeholder="Country of residence...">
+                    </select>
+
+                    <input type="submit" value="Submit">
+
+                </form>
+            </div>
+        </section>
 
 
+        <footer>
+            <ul class="social-media">
+                <li>
+                    <a href="https://www.facebook.com/clubbercise" target="_blank" rel="noopener"
+                        aria-label="Visit the official Clubbercise Facebook page, opens in a new tab"><i
+                            class="fab fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/Clubbercise/status/1400896888262512642" target="_blank" rel="noopener"
+                        aria-label="Visit the official Clubbercise Twitter page, opens in a new tab"><i
+                            class="fab fa-twitter-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/clubbercise/" target="_blank" rel="noopener"
+                        aria-label="Visit the official Clubbercise Instagram page, opens in a new tab"><i
+                            class="fab fa-instagram-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Lya0Yxk0LKI" target="_blank" rel="noopener"
+                        aria-label="Visit Clubbercise on Youtube, opens in a new tab"><i class="fab fa-youtube"></i></a>
+                </li>
+            </ul>>
+            <div>
+                <h6><i class="far fa-copyright"></i> Copyright - Hero image taken from istockphoto.com.
+                    <a href="https://media.istockphoto.com/photos/modern-contemporary-dance-picture-id155374164?k=6&m=155374164&s=612x612&w=0&h=KefUlGt1IvS2sfN4G8BnDTyFSHQ5FViN3gNI-EjQbd8="
+                        target="_blank">Click here</a></h6>
+            </div>
+        </footer>
 
-    <footer>
-        <ul class="social-media">
-            <li>
-                <a href="https://www.facebook.com/clubbercise" target="_blank" rel="noopener"
-                    aria-label="Visit the official Clubbercise Facebook page, opens in a new tab"><i
-                        class="fab fa-facebook"></i></a>
-            </li>
-            <li>
-                <a href="https://twitter.com/Clubbercise/status/1400896888262512642" target="_blank" rel="noopener"
-                    aria-label="Visit the official Clubbercise Twitter page, opens in a new tab"><i
-                        class="fab fa-twitter-square"></i></a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/clubbercise/" target="_blank" rel="noopener"
-                    aria-label="Visit the official Clubbercise Instagram page, opens in a new tab"><i
-                        class="fab fa-instagram-square"></i></a>
-            </li>
-            <li>
-                <a href="https://www.youtube.com/watch?v=Lya0Yxk0LKI" target="_blank" rel="noopener"
-                    aria-label="Visit Clubbercise on Youtube, opens in a new tab"><i class="fab fa-youtube"></i></a>
-            </li>
-        </ul>>
-        <div>
-            <h6><i class="far fa-copyright"></i> Copyright - Hero image taken from istockphoto.com.
-                <a href="https://media.istockphoto.com/photos/modern-contemporary-dance-picture-id155374164?k=6&m=155374164&s=612x612&w=0&h=KefUlGt1IvS2sfN4G8BnDTyFSHQ5FViN3gNI-EjQbd8="
-                    target="_blank">Click here</a></h6>
-        </div>
-    </footer>
+        <!-- font awesome script  -->
+        <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 
-    <!-- font awesome script  -->
-    <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
-
-</body>
+    </body>
 
 </html>
