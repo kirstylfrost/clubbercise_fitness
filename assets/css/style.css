@@ -189,69 +189,80 @@ h4 {
 
 /* Form section */
 
-.join-form-title{
+.join-form-title {
     margin-left: 20px;
     text-align: center;
     border-radius: 5px;
 }
 
+#join-form, h3 {
+    float: none;
+    margin-left: 20px;
 
-input[type=text], select {
+}
+
+
+input[type=text],
+select {
+    margin-left: 20px;
     width: 100%;
-    padding: 12px 20px;
+    padding: 20px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
     background-color: rgba(207, 158, 253, .8);
-  }
-  
-  input[type=submit] {
+}
+
+input[type=submit] {
+    margin-left: 20px;
     width: 100%;
     font-family: Montserrat, sans-serif;
     font-weight: bold;
     background-color: white;
     color: black;
-    padding: 14px 20px;
+    padding: 25px 20px;
     margin: 8px 0;
     border: none;
     border-radius: 4px;
-    /*cursor: pointer;*/
-  }
-  
-  input[type=submit]:hover {
+
+}
+
+input[type=submit]:hover {
     background-color: rgba(207, 158, 253, .8);
-  }
-  
-  div {
+}
+
+/*div {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
-  }
- /* Join Class*/
-  #join-class {
+}*/
+
+/* Join Class */
+
+#join-class {
     text-align: center;
     margin-bottom: 30px;
 }
 
-    #join-class h3,
-    h4 {
+#join-class h3,
+h4 {
     background-color: rgba(207, 158, 253, .8);
-    }
+}
 
-    #join-class a {
+#join-class a {
     text-decoration: none;
     color: inherit;
-    }
+}
 
-    #join-class a:hover {
+#join-class a:hover {
     border-bottom: 3px solid black;
-    }
+}
 
-    .join-class {
+.join-class {
     border-bottom: 3px solid black;
-    }
+}
 
 /* Media queries */
 
