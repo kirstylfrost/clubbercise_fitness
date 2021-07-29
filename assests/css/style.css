@@ -38,7 +38,7 @@ h2 {
 
 #menu,
 #logo {
-    line-height: 75px;
+    line-height: 100px;
 
 }
 
@@ -75,7 +75,7 @@ h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("../images/istockphoto-155374164-612x612-hero.jpg") no-repeat center center;
+    background: url("../images/istockphoto-155374164-612x612-hero.png") no-repeat center center;
 }
 
 #cover-text,
@@ -187,38 +187,6 @@ h4 {
     border-bottom: 3px solid black;
 }
 
-/* Form */
-
-/*input[type=text], select {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-}
-
-input[type=submit] {
-  width: 100%;
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-div {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}*/
 /* Form section */
 
 .join-form-title{
@@ -261,6 +229,29 @@ input[type=text], select {
     background-color: #f2f2f2;
     padding: 20px;
   }
+ /* Join Class*/
+  #join-class {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+    #join-class h3,
+    h4 {
+    background-color: rgba(207, 158, 253, .8);
+    }
+
+    #join-class a {
+    text-decoration: none;
+    color: inherit;
+    }
+
+    #join-class a:hover {
+    border-bottom: 3px solid black;
+    }
+
+    .join-class {
+    border-bottom: 3px solid black;
+    }
 
 /* Media queries */
 
