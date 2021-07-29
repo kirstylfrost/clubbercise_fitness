@@ -33,29 +33,35 @@
         </nav>
     </header>
 
-    <body>
+    <section id="hero-outer">
+        <div id="hero-image"></div>>
+        <div id="cover-text">
+            <h2>Clubbercise <i class="far fa-heart"></i></h2>
+            <h3>Sign up for our FREE Newsletter! <i class="fas fa-envelope-open-text"></i></h3>
+        </div>
 
-        <section class="form-header">
-            <div>
-                <h2>Join our <b>FREE</b> Newsletter </h2>
-            </div>
+    </section>
 
+        <section class="join-form-title">
+                <h3>Enter your details below to receive a copy of our Newsletter <i class="far fa-smile"></i></h3>
+            
         </section>
-
-        <section>
+        <br>
+        <section class="join-form">
             <div>
                 <form action="/join-data.php">
                     <label for="fname">First Name</label>
-                    <input type="text" id="fname" name="firstname" placeholder="Your name...">
+                    <input type="text" id="fname" name="firstname" placeholder="Your name..." required>
 
                     <label for="lname">Last Name</label>
-                    <input type="text" id="lname" name="lastname" placeholder="Your last name...">
+                    <input type="text" id="lname" name="lastname" placeholder="Your last name..." required>
 
-                    <label for="country">Country</label>
-                    <input type="text" id="country" name="country" placeholder="Country of residence...">
+                    <label for="email">Email Address</label>
+                    <input type="text" id="email" name="email-address" placeholder="Your email address..." required>
+
                     </select>
 
-                    <input type="submit" value="Submit">
+                    <input class="join-button" type="submit" value="Yes, please send me a copy of the amazing newsletter!">
 
                 </form>
             </div>
