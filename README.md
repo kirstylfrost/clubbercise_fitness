@@ -1,9 +1,38 @@
-Project Name
-Outline a brief description of your project. Live demo here.
+# Clubberise Fitness
+###  This is a website that promotes Clubbercise.
+<br>
+<p>
+Clubbercise is an exercise phenomenom that has taken the world by storm! The routines are much easier to follow than other dance workouts, can burn up to 600 calories per session and it takes place in the dark with glowsticks; so you can really let yourself go!
+</p>
+<p>
+This website is for those who would like to find out more about Clubbercise. People who may not enjoy fitness classes. Clubbercise is easily adapted to the users needs and capabilities. The website details some of the benefits. There are videos that show what is involved. The user can even experience a class at home before joining a class. There is an inspirational story written by a user and a 3rd party artical that really sells the benefits of dance-based-workouts. Users, new and experienced, can also use this website to locate a class nationally & locally. They can also sign up for a newsletter containing regular updates and offers realting to Clubbercise Fitness.
+</p>
+<img src="assets/images/readme-clubbercise-responsive-image.PNG">
 
-Table of Contents
-General Info
-Technologies Used
+#### <b>Table of contents</b> 
+<hr>
+<ol>
+    <li><b>Home:</b> Hero image and promotion of Clubbercise. Social media links included within the footer.</li>
+    <li><b>About:</b> Videos showing exaples of Clubbercise, a Clubbercise class. A link to a user story and a link to a article that informs how Clubbercise has an impact of wellbeing. Social media links included within the footer.</li>
+    <li><b>Join us:</b> Hero image advertising the newsletter. Sign up form to receive a newsletter. A link to the official Clubbercise website to find a class. A link to the official Everyone Active website to find a class. Social media links included within the footer.</li>
+</ol>
+<br>
+
+#### <b>Technologies used</b>
+<hr>
+
+HTML5 and CCS3
+<br>
+<br>
+
+#### <b>Features</b>
+<hr>
+The <b>home page</b> is to draw the users attention to Clubbercise. This is doen with the hero image and an animation of a text box to entice the user to a fun way of exercising.
+
+<img src="assets/images/readme-home-capture.PNG">
+
+
+
 Features
 Screenshots
 Setup
@@ -17,10 +46,7 @@ Provide general information about your project here.
 What problem does it (intend to) solve?
 What is the purpose of your project?
 Why did you undertake it?
-Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
+
 Features
 List the ready features here:
 
