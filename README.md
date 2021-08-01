@@ -3,10 +3,10 @@
 <br>
 <br>
 <p>
-Clubbercise is an exercise phenomenom that has taken the world by storm! The routines are much easier to follow than other dance workouts, can burn up to 600 calories per session and it takes place in the dark with glowsticks; so you can really let yourself go!
+Clubbercise is an exercise phenomenon that has taken the world by storm! The routines are much easier to follow than other dance workouts, can burn up to 600 calories per session and it takes place in the dark with glowsticks; you can really let yourself go!
 </p>
 <p>
-This website is for those who would like to find out more about Clubbercise. People who may not enjoy fitness classes. Clubbercise is easily adapted to the users needs and capabilities. The website details some of the benefits. There are videos that show what is involved. The user can even experience a class at home before joining a class. There is an inspirational story written by a user and a 3rd party artical that really sells the benefits of dance-based-workouts. Users, new and experienced, can also use this website to locate a class nationally & locally. They can also sign up for a newsletter containing regular updates and offers realting to Clubbercise Fitness.
+This website is for those who would like to find out more about Clubbercise. People who may not enjoy fitness classes. Clubbercise is easily adapted to the users' needs and capabilities. The website details some of the benefits. There are videos that show what is involved. The user can even experience a class at home before joining a class. There is an inspirational story written by a user and a 3rd party article that really sells the benefits of dance-based-workouts. Users, new and experienced, can also use this website to locate a class nationally & locally. They can also sign up for a newsletter containing regular updates and offers relating to Clubbercise Fitness.
 </p>
 <p> 
 I really hope this website will show users how much fun and how beneficial to their wellbeing, this kind of exercise can be.
@@ -20,7 +20,7 @@ I really hope this website will show users how much fun and how beneficial to th
 <hr>
 <ol>
     <li><b>Home:</b> Hero image and promotion of Clubbercise. Social media links included within the footer.</li>
-    <li><b>About:</b> Videos showing exaples of Clubbercise, a Clubbercise class. A link to a user story and a link to a article that informs how Clubbercise has an impact of wellbeing. Social media links included within the footer.</li>
+    <li><b>About:</b> Videos showing examples of Clubbercise, a Clubbercise class. A link to a user story and a link to an article that informs how Clubbercise has an impact of wellbeing. Social media links included within the footer.</li>
     <li><b>Join us:</b> Hero image advertising the newsletter. Sign up form to receive a newsletter. A link to the official Clubbercise website to find a class. A link to the official Everyone Active website to find a class. Social media links included within the footer.</li>
 </ol>
 <br>
@@ -39,25 +39,25 @@ HTML5 and CCS3
 <li>The <b>nav bar</b> is present at the top of every page. This is to enable the user to easily navigate throughout the site, without the need of using the back button.</li>
 <br>
 <br>
-<li>The <b>home page</b> is to draw the users attention to Clubbercise. This is done with the hero image and an animation of a text box to entice the user to a fun way of exercising. Below this I have highlighted some of the benefits of Clubbercise.</li>
+<li>The <b>home page</b> purpose is to draw the users' attention to Clubbercise Fitness. This is done with the hero image and an animation of a text box to entice the user to a fun way of exercising. Below this I have highlighted some of the benefits of Clubbercise.</li>
 <br>
 <br>
 <img src="assets/images/readme-home-capture.PNG">
 <br>
 <br>
-<li>The <b>about page</b> is my opportunity to show what Clubbercise is, whilst allowing the user to make up their own mind regarding whether it is beneficial to them. It contains a 'behind the scenes' video for the user to view. It also has a video of a class that is led by Magna Vitae. These videos enable the user to take part from the comfort of their own home. There is a link to a story about a participant who went onto become an instructor; reaffirming the appeal that Clubbercise has over it's participants. The final link is to an artical, that was carried out by a 3rd party, which shows the evidence that has been gathered to support how dance fitness can improve mental wellbeing.</li>
+<li>The <b>about page</b> is my opportunity to show what Clubbercise is, whilst allowing the user to make up their own mind regarding whether it is beneficial to them. It contains a 'behind the scenes' video for the user to view. It also has a video of a class that is led by Magna Vitae. These videos enable the user to take part from the comfort of their own home. There is a link to a story about a participant who went onto become an instructor, reaffirming the appeal that Clubbercise has over it's participants. The final link is to an artical, that was carried out by a 3rd party, which shows the evidence that has been gathered to support how dance fitness can improve mental wellbeing.</li>
 <br>
 <br>
 <img src="assets/images/readme-about-capture.PNG">
 <br>
 <br>
-<li>The <b>join us page</b> is where the user can register their contact details to receive a copy of the newsletter. This is for the user to receive special offers and regular information regarding Clubbercise. Below the sign up form are links to the Clubbercise and Everyone Active official sites, that shows classes locally and nationally. These links go directly to these search/sign up pages for greater use for the user.</li>
+<li>The <b>join us page</b> is where the user can register their contact details to receive a copy of the newsletter. This is for the user to receive special offers and regular information regarding Clubbercise. Below the sign-up form are links to the Clubbercise and Everyone Active official sites, that shows classes locally and nationally. These links go directly to these search/sign up pages for greater use for the user.</li>
 <br>
 <br>
 <img src="assets/images/readme-join-capture.PNG">
 <br>
 <br>
-<li>The <b>footer</b> is present at the bottom of every page. It conatins social media links. This is beneficial to the user as they are links to the offical social media accounts for Clubbercise. The user can go on to communicate with others, without leaving the main Clubbercise page. The footer also contains the copyright information for that page.</li>
+<li>The <b>footer</b> is present at the bottom of every page. It contains social media links. This is beneficial to the user as they are links to the official social media accounts for Clubbercise. The user can go on to communicate with others, without leaving the main Clubbercise page. The footer also contains the copyright information for that page.</li>
 <br>
 <br>
 <img src="assets/images/readme-footer-capture.PNG">
@@ -67,14 +67,14 @@ HTML5 and CCS3
 #### <b>Additional Features - Future implementation</b>
 <hr>
 <p>
-I would like to add some form of fitness tracker for users to monitor their progress. It would be connected to devices that currently track a users fitness (fitbit, phone etc...). The data would then be uploaded to the website for the user to track health and/or wellbeing.
+I would like to add some form of fitness tracker for users to monitor their progress. It would be connected to devices that currently track a user's fitness (fitbit, phone etc...). The data would then be uploaded to the website for the user to track health and/or wellbeing.
 </p>
 <p>
-I would like to add a page that is dedicated to posting official video's of classes for people to enjoy at home.
+I would like to add a page that is dedicated to posting official videos of classes for people to enjoy at home.
 I would also like to add a comprehensive chatbox. Here I would like people to be able to post messages/photos/videos to an entire community of people. Here we can get real-time feedback on newsletters and videos posted. This chatbox could also serve as a 'suggestion box' for users to make requests.
 </p>
 <p>
-When designing this site I took inspriation from the <a href="https://www.nike.com/gb/" target="_blank">Nike</a> and <a href="https://www.apple.com/" target="_blank">Apple</a> websites. I like how minimilaist they are. I don't quite feel I was able to accomplish this level of design. I do believe professional shots taken specifically for this website would result in a more aesthetically pleasing website.
+When designing this site I took inspiration from the <a href="https://www.nike.com/gb/" target="_blank">Nike</a> and <a href="https://www.apple.com/" target="_blank">Apple</a> websites. I was struck by how minimalist they were. I don't quite feel I was able to accomplish this level of design. I do believe professional shots taken specifically for this website would result in a more aesthetically pleasing website.
 </p>
 <br>
 <br>
@@ -82,7 +82,7 @@ When designing this site I took inspriation from the <a href="https://www.nike.c
 #### <b>Testing</b>
 <hr>
 <p>
-All links have been checked. Some bugs appeared where links did not work or they went to a different website. These have all been resolved and tested again to show they are now correct. All links to external sites open in a new tab, the current page the user is on stays open. The two youtube videos open within the screen, they do not need a new browser.
+All links have been checked. Some bugs appeared where links did not work or they went to a different website. These have all been resolved and tested again to show they are now correct. All links to external sites open in a new tab, the current page the user is on stays open. Both youtube videos open within the screen, they do not need a new page.
 </p>
 <p>
 A bug within the navigation links was found relating to the home page. This has also been resolved.
@@ -94,221 +94,66 @@ Responsive design has been applied. It is readable on all devices. However, I do
 <br>
 <br>
 
-Validator Testing
+#### <b>Validator Testing</b>
 <hr>
+<p>
+<b>HTML - </b> No errors were returned when passing through the official <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fkirstylfrost.github.io%2Fclubbercise_fitness%2F" target="_blank">html validator</a>.
+</p>
+<p>
+<b>CSS - </b> No errors were found when passing through the official <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkirstylfrost.github.io%2Fclubbercise_fitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" target="_blank">jigsaw validator</a>.
+</p>
 <br>
 <br>
-Unfixed bugs
+
+#### <b>Unfixed bugs</b>
 <hr>
+<p>
+All bugs were located and resolved when testing and passing through the validator.
+</p>
 <br>
 <br>
-Deployment
+
+#### <b>Deployment</b>
 <hr>
+<p>
+This site was deployed on GitHub, the following process shows how this was completed.
+<ul>
+  <li>In Github, go to the repository, select the settings tab.</li>
+  <li>Go to the source drop down menu and select Master Branch.</li>
+  <li>The page is then automatically refreshed and displays a message to state this has been deployed successfully.</li>
+</ul>
+
+Clubbercise Fitness live link - https://github.com/kirstylfrost/clubbercise_fitness 
+</p> 
 <br>
 <br>
-Credits
+
+#### <b>Credits</b>
 <hr>
+<p>
+I have used fontawesome throughout the project.
+</p>
+<p>
+All images and videos are taken from public sources. Cited where applied at the bottom of each page within the copyright section.
+</p>
+<p>
+I took inspiration from the love running project, although I made some changes. I liked the style of the header, so I implemented this style. I changed coding within the nav elements and added fontawesome text to style the element further.
+</p>
+<p>
+I used the hero image and animation from the love running project, again I made some changes. I changed the animation to suit my site. Here I animated the cover text that is seen on the home and join us pages. 
+</p>
+<p>
+Love Running live link - https://github.com/kirstylfrost/love-running
+</p>
 <br>
 <br>
-Contents
+
+#### <b>Contents & Media</b>
 <hr>
-<br>
-<br>
-Media
-<hr>
-<br>
-<br>
-
-
-Setup
-Usage
-Project Status
-Room for Improvement
-Acknowledgements
-Contact
-General Information
-Provide general information about your project here.
-What problem does it (intend to) solve?
-What is the purpose of your project?
-Why did you undertake it?
-
-Features
-List the ready features here:
-
-Awesome feature 1
-Awesome feature 2
-Awesome feature 3
-Screenshots
-Example screenshot
-
-Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-Usage
-How does one go about using it? Provide various use cases and code examples here.
-
-write-your-code-here
-
-Project Status
-Project is: in progress / complete / no longer being worked on. If you are no longer working on it, provide reasons why.
-
-Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-
-Improvement to be done 1
-Improvement to be done 2
-To do:
-
-Feature to be added 1
-Feature to be added 2
-Acknowledgements
-Give credit here.
-
-This project was inspired by...
-This project was based on this tutorial.
-Many thanks to...
-Contact
-# Love Running
-
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
-
-- __Navigation Bar__
-
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
-
-- __The landing page image__
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
-
-## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-
-### Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
-
-## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
-
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+<p>
+The icons shown throughout the project were taken from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>.
+</p>
+<p>
+Information taken from other sources is cited in the copyright section of each page. All other content is my own.
+</p>
+ 
