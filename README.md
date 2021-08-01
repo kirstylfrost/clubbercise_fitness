@@ -66,13 +66,34 @@ HTML5 and CCS3
 
 #### <b>Additional Features - Future implementation</b>
 <hr>
+<p>
+I would like to add some form of fitness tracker for users to monitor their progress. It would be connected to devices that currently track a users fitness (fitbit, phone etc...). The data would then be uploaded to the website for the user to track health and/or wellbeing.
+</p>
+<p>
+I would like to add a page that is dedicated to posting official video's of classes for people to enjoy at home.
+I would also like to add a comprehensive chatbox. Here I would like people to be able to post messages/photos/videos to an entire community of people. Here we can get real-time feedback on newsletters and videos posted. This chatbox could also serve as a 'suggestion box' for users to make requests.
+</p>
+<p>
+When designing this site I took inspriation from the <a href="https://www.nike.com/gb/" target="_blank">Nike</a> and <a href="https://www.apple.com/" target="_blank">Apple</a> websites. I like how minimilaist they are. I don't quite feel I was able to accomplish this level of design. I do believe professional shots taken specifically for this website would result in a more aesthetically pleasing website.
+</p>
 <br>
 <br>
 
 #### <b>Testing</b>
 <hr>
+<p>
+All links have been checked. Some bugs appeared where links did not work or they went to a different website. These have all been resolved and tested again to show they are now correct. All links to external sites open in a new tab, the current page the user is on stays open. The two youtube videos open within the screen, they do not need a new browser.
+</p>
+<p>
+A bug within the navigation links was found relating to the home page. This has also been resolved.
+</p>
+<p>
+Responsive design has been applied. It is readable on all devices. However, I do feel there is room for improvement around the styling. I have taken to learning more about this subject through with 
+<a href="https://www.w3schools.com/html/html_responsive.asp" target="_blank">w3chools.com</a>. I would like to revisit this area, once I have a greater understanding, and improve upon the styling.
+</p>
 <br>
 <br>
+
 Validator Testing
 <hr>
 <br>
