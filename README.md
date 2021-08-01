@@ -63,11 +63,13 @@ HTML5 and CCS3
 <img src="assets/images/readme-footer-capture.PNG">
 <br>
 <br>
-Additional Features
+
+#### <b>Additional Features - Future implementation</b>
 <hr>
 <br>
 <br>
-Testing
+
+#### <b>Testing</b>
 <hr>
 <br>
 <br>
