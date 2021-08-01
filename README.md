@@ -1,13 +1,20 @@
 # Clubberise Fitness
 ###  This is a website that promotes Clubbercise.
 <br>
+<br>
 <p>
 Clubbercise is an exercise phenomenom that has taken the world by storm! The routines are much easier to follow than other dance workouts, can burn up to 600 calories per session and it takes place in the dark with glowsticks; so you can really let yourself go!
 </p>
 <p>
 This website is for those who would like to find out more about Clubbercise. People who may not enjoy fitness classes. Clubbercise is easily adapted to the users needs and capabilities. The website details some of the benefits. There are videos that show what is involved. The user can even experience a class at home before joining a class. There is an inspirational story written by a user and a 3rd party artical that really sells the benefits of dance-based-workouts. Users, new and experienced, can also use this website to locate a class nationally & locally. They can also sign up for a newsletter containing regular updates and offers realting to Clubbercise Fitness.
 </p>
+<p> 
+I really hope this website will show users how much fun and how beneficial to their wellbeing, this kind of exercise can be.
+</p>
 <img src="assets/images/readme-clubbercise-responsive-image.PNG">
+
+<br>
+<br>
 
 #### <b>Table of contents</b> 
 <hr>
@@ -16,6 +23,7 @@ This website is for those who would like to find out more about Clubbercise. Peo
     <li><b>About:</b> Videos showing exaples of Clubbercise, a Clubbercise class. A link to a user story and a link to a article that informs how Clubbercise has an impact of wellbeing. Social media links included within the footer.</li>
     <li><b>Join us:</b> Hero image advertising the newsletter. Sign up form to receive a newsletter. A link to the official Clubbercise website to find a class. A link to the official Everyone Active website to find a class. Social media links included within the footer.</li>
 </ol>
+<br>
 <br>
 
 #### <b>Technologies used</b>
@@ -27,14 +35,68 @@ HTML5 and CCS3
 
 #### <b>Features</b>
 <hr>
-The <b>home page</b> is to draw the users attention to Clubbercise. This is doen with the hero image and an animation of a text box to entice the user to a fun way of exercising.
-
+<ol>
+<li>The <b>nav bar</b> is present at the top of every page. This is to enable the user to easily navigate throughout the site, without the need of using the back button.</li>
+<br>
+<br>
+<li>The <b>home page</b> is to draw the users attention to Clubbercise. This is done with the hero image and an animation of a text box to entice the user to a fun way of exercising. Below this I have highlighted some of the benefits of Clubbercise.</li>
+<br>
+<br>
 <img src="assets/images/readme-home-capture.PNG">
+<br>
+<br>
+<li>The <b>about page</b> is my opportunity to show what Clubbercise is, whilst allowing the user to make up their own mind regarding whether it is beneficial to them. It contains a 'behind the scenes' video for the user to view. It also has a video of a class that is led by Magna Vitae. These videos enable the user to take part from the comfort of their own home. There is a link to a story about a participant who went onto become an instructor; reaffirming the appeal that Clubbercise has over it's participants. The final link is to an artical, that was carried out by a 3rd party, which shows the evidence that has been gathered to support how dance fitness can improve mental wellbeing.</li>
+<br>
+<br>
+<img src="assets/images/readme-about-capture.PNG">
+<br>
+<br>
+<li>The <b>join us page</b> is where the user can register their contact details to receive a copy of the newsletter. This is for the user to receive special offers and regular information regarding Clubbercise. Below the sign up form are links to the Clubbercise and Everyone Active official sites, that shows classes locally and nationally. These links go directly to these search/sign up pages for greater use for the user.</li>
+<br>
+<br>
+<img src="assets/images/readme-join-capture.PNG">
+<br>
+<br>
+<li>The <b>footer</b> is present at the bottom of every page. It conatins social media links. This is beneficial to the user as they are links to the offical social media accounts for Clubbercise. The user can go on to communicate with others, without leaving the main Clubbercise page. The footer also contains the copyright information for that page.</li>
+<br>
+<br>
+<img src="assets/images/readme-footer-capture.PNG">
+<br>
+<br>
+Additional Features
+<hr>
+<br>
+<br>
+Testing
+<hr>
+<br>
+<br>
+Validator Testing
+<hr>
+<br>
+<br>
+Unfixed bugs
+<hr>
+<br>
+<br>
+Deployment
+<hr>
+<br>
+<br>
+Credits
+<hr>
+<br>
+<br>
+Contents
+<hr>
+<br>
+<br>
+Media
+<hr>
+<br>
+<br>
 
 
-
-Features
-Screenshots
 Setup
 Usage
 Project Status
