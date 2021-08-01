@@ -160,4 +160,11 @@ The icons shown throughout the project were taken from <a href="https://fontawes
 <p>
 Information taken from other sources is cited in the copyright section of each page. All other content is my own.
 </p>
+<br>
+<br>
+
+#### <b>ontact</b>
+<hr>
+<p>
+Contact Kirsty Frost at kirstylfrost@google.com
  
