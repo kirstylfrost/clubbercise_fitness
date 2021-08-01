@@ -102,6 +102,10 @@ Responsive design has been applied. It is readable on all devices. However, I do
 <p>
 <b>CSS - </b> No errors were found when passing through the official <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkirstylfrost.github.io%2Fclubbercise_fitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" target="_blank">jigsaw validator</a>.
 </p>
+<p>
+<b>Lighthouse</b>
+<img src="assets/images/readme-lighthouse-capture.PNG">
+</p>
 <br>
 <br>
 
