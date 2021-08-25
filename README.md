@@ -163,7 +163,7 @@ Information taken from other sources is cited in the copyright section of each p
 <br>
 <br>
 
-#### <b>ontact</b>
+#### <b>Contact</b>
 <hr>
 <p>
 Contact Kirsty Frost at kirstylfrost@google.com
